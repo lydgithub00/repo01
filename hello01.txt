@@ -1,2 +1,4 @@
 1111111111111111
 2222222222222222222222
+git remote add origin git@github.com:lydgithub00/repo01.git
+git push -u origin master
